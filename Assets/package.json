@@ -1,0 +1,25 @@
+{
+    "name": "com.mgs.monotransition ",
+    "version": "1.0.0",
+    "displayName": "Mono Transition",
+    "description": "State translation for MonoBehaviour.",
+    "unity": "2021.3",
+    "keywords": [
+        "Transition",
+        "State",
+        "Color",
+        "Image"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    },
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample for state translation of MonoBehaviour.",
+            "path": "Samples~/Sample"
+        }
+    ]
+}

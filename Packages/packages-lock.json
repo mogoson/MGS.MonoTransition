@@ -1,16 +1,18 @@
 {
   "dependencies": {
     "com.mgs.assistant": {
-      "version": "file:D:/Programmer/Github/MGS.Assistant/Assets",
+      "version": "https://github.com/mogoson/MGS.Assistant.git?path=/Assets",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "735585cde64c0fa0bb93ef59b62f402141ed861e"
     },
     "com.mgs.monolistener": {
-      "version": "file:D:/Programmer/Github/MGS.MonoListener/Assets",
+      "version": "https://github.com/mogoson/MGS.MonoListener.git?path=/Assets",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "efab1b61e88e1a2b88943bfd276db51743132da2"
     },
     "com.unity.collab-proxy": {
       "version": "2.3.1",
