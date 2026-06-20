@@ -33,7 +33,7 @@ namespace MGS.MonoTransition
 
         protected virtual void OnEnter(Vector3 pos)
         {
-            Transit(Transition.Hold);
+            Transit(Transition.Hover);
         }
 
         protected virtual void OnMove(Vector3 pos) { }
