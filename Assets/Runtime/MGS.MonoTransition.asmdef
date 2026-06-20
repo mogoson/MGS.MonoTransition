@@ -1,0 +1,16 @@
+{
+    "name": "MGS.MonoTransition",
+    "rootNamespace": "MGS.MonoTransition",
+    "references": [
+        "GUID:85e0f6c63ded6994e9a5583ce1ddef77"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
