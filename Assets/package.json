@@ -1,5 +1,5 @@
 {
-    "name": "com.mgs.monotransition ",
+    "name": "com.mgs.monotransition",
     "version": "1.0.0",
     "displayName": "Mono Transition",
     "description": "State translation for MonoBehaviour.",
